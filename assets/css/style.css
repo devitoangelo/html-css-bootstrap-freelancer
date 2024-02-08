@@ -1,35 +1,64 @@
 .debug header {
     min-height: 70px;
 }
+
+.debug .jumbo{
+    height: 500px;
+}
+
+.debug .jumbo_container{
+    height: 90%;
+    background-color: black;
+}
+.debug .portfolio{
+    height: 200px;
+}
+
+.debug .portfolio_container{
+    height: 80%;
+    background-color: red;
+    
+  
+
+}
+
+
+
+
+
 header{
     background-color: #2C3E50;
     align-items: center;
     display: flex;
+ 
 
-    > div{
+    > .box{
         background-color: red;
         height: 40px;
     }
 }
 
 /* header */
-.debug .debug{
-    height: 500px;
-    
-}
-main{
-    > div{
-        background-color: #1ABC9C;
-        display: flex;
-        align-items: center;
-        
-        
 
-        > div{
-            background-color: black;
-            height: 80%
-        }
-
-    }
+.jumbo{
+    background-color: #1ABC9C;
+    align-items: center;
+    display: flex;
 }
+    /* jumbo */
+
+
+.portfolio{
+
+    background-color: #6C4E6F;
+    display: flex;
+    align-items: end;
+}    
+
+/* portfolio */
+
+
+
+
+
 
