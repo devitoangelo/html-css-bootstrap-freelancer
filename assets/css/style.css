@@ -2,41 +2,47 @@
     min-height: 70px;
 }
 
-.debug .jumbo{
+.debug .jumbo {
     height: 500px;
 }
 
-.debug .jumbo_container{
+.debug .jumbo_container {
     height: 90%;
     background-color: black;
 }
-.debug .portfolio{
+
+.debug .portfolio {
     height: 200px;
 }
 
-.debug .portfolio_container{
+.debug .portfolio_container {
     height: 90%;
     background-color: red;
 }
 
 
-.debug .about{
+.debug .about {
     background-color: black;
     height: 50px;
 }
-.debug .contact-me{
+
+.debug .contact-me {
     background-color: blue;
     height: 500px;
-    
 }
 
-header{
+.debug footer {
+    min-height: 100px;
+
+}
+
+header {
     background-color: #2C3E50;
     align-items: center;
     display: flex;
- 
 
-    > .box{
+
+    >.box {
         background-color: red;
         height: 40px;
     }
@@ -44,21 +50,22 @@ header{
 
 /* header */
 
-.jumbo{
+.jumbo {
     background-color: #1ABC9C;
     align-items: center;
     display: flex;
 }
-    /* jumbo */
+
+/* jumbo */
 
 
-.portfolio{
+.portfolio {
 
     background-color: #6C4E6F;
     display: flex;
     align-items: end;
     justify-content: center;
-}    
+}
 
 /* portfolio */
 
@@ -70,11 +77,11 @@ header{
 /* about */
 
 
-.contact-me{
+.contact-me {
     align-items: center;
 }
 
-.data{
+.data {
     height: 70%;
     background-color: black;
     width: 100%;
@@ -85,6 +92,17 @@ header{
 /* contact-me */
 
 
+.prompt {
+    background-color: #3A546D;
+}
+
+/* prompt */
+
+footer {
+    background-color: #2C3E50;
+    display: flex;
+    text-align: center;
+    align-items: center;
 
 
-
+}
