@@ -17,13 +17,7 @@
 .debug .portfolio_container{
     height: 80%;
     background-color: red;
-    
-  
-
 }
-
-
-
 
 
 header{
@@ -58,6 +52,14 @@ header{
 
 /* portfolio */
 
+
+
+.about{
+    background-color: black;
+    height: 50px;
+ 
+
+}
 
 
 
