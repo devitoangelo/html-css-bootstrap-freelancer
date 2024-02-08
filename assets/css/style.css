@@ -13,3 +13,23 @@ header{
 }
 
 /* header */
+.debug .debug{
+    height: 500px;
+    
+}
+main{
+    > div{
+        background-color: #1ABC9C;
+        display: flex;
+        align-items: center;
+        
+        
+
+        > div{
+            background-color: black;
+            height: 80%
+        }
+
+    }
+}
+
