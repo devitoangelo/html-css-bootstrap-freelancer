@@ -22,8 +22,7 @@
 
 
 .debug .about {
-    background-color: black;
-    height: 50px;
+    height: 200px;
 }
 
 .debug .contact-me {
@@ -33,6 +32,7 @@
 
 .debug footer {
     min-height: 100px;
+
 
 }
 
@@ -81,10 +81,6 @@ header {
 
 /* portfolio */
 
-
-/* .about{
-
-} */
 
 /* about */
 
