@@ -1,5 +1,6 @@
 .debug header {
     min-height: 70px;
+
 }
 
 .debug .jumbo {
@@ -8,7 +9,6 @@
 
 .debug .jumbo_container {
     height: 90%;
-    background-color: black;
 }
 
 .debug .portfolio {
@@ -42,10 +42,7 @@ header {
     display: flex;
 
 
-    >.box {
-        background-color: red;
-        height: 40px;
-    }
+
 }
 
 /* header */
@@ -54,6 +51,7 @@ header {
     background-color: #1ABC9C;
     align-items: center;
     display: flex;
+    text-align: center;
 }
 
 /* jumbo */
