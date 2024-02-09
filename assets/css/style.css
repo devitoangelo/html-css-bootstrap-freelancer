@@ -120,6 +120,16 @@ header {
 .prompt {
     background-color: #3A546D;
 }
+.btn-{
+    border: 1px solid;
+    padding: 10px;
+    border-radius: 1.5rem;
+}
+
+.link{
+    text-decoration: none;
+    color: #1ABC9C;    
+}
 
 /* prompt */
 
@@ -131,6 +141,5 @@ footer {
 
 
 }
-
 
 
