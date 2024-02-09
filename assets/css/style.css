@@ -93,9 +93,6 @@ header {
 
 
 
-/* about */
-
-
 .mt_5{
     margin-top: 5rem;
 }
@@ -135,9 +132,10 @@ header {
 
 footer {
     background-color: #2C3E50;
+    height: 100px;
     display: flex;
-    text-align: center;
     align-items: center;
+    justify-content: center;
 
 
 }
