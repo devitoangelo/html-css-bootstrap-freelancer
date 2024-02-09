@@ -4,7 +4,7 @@
 }
 
 .debug .jumbo {
-    height: 500px;
+    height: 600px;
 }
 
 .debug .jumbo_container {
@@ -17,7 +17,7 @@
 
 .debug .portfolio_container {
     height: 90%;
-    background-color: red;
+   
 }
 
 
@@ -49,10 +49,24 @@ header {
 
 .jumbo {
     background-color: #1ABC9C;
-    align-items: center;
-    display: flex;
-    text-align: center;
 }
+
+.font{
+    font-size: x-large;
+}
+
+.font_{
+    font-size: xxx-large;
+}
+
+/* star */
+.star{
+    font-size: x-large;
+}
+/* star */
+
+
+
 
 /* jumbo */
 
