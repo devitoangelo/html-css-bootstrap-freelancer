@@ -17,7 +17,7 @@
 
 .debug .portfolio_container {
     height: 90%;
-   
+
 }
 
 
@@ -34,7 +34,8 @@
 
 
 }
-.debug .contact-me{
+
+.debug .contact-me {
     height: 600px;
 
 }
@@ -56,17 +57,38 @@ header {
     background-color: #1ABC9C;
 }
 
-.font{
+.font {
     font-size: x-large;
 }
 
-.font_{
+.font_ {
     font-size: xxx-large;
 }
 
 /* star */
-.star{
-    font-size: x-large;
+i {
+    font-size: xx-large;
+    padding: 1rem;
+}
+
+.star_ {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+.hr-star {
+    width: 150px;
+    background-color: black;
+    height: 2px;
+    display: flex;
+}
+
+.color{
+    background-color: white;
+
 }
 /* star */
 
@@ -89,13 +111,13 @@ header {
 
 
 
-.mt_5{
+.mt_5 {
     margin-top: 5rem;
 }
 
-.btn_{
-    background-color: #1ABC9C;   
-    border: 0; 
+.btn_ {
+    background-color: #1ABC9C;
+    border: 0;
     border-radius: 5px;
 }
 
@@ -113,15 +135,16 @@ header {
 .prompt {
     background-color: #3A546D;
 }
-.btn-{
+
+.btn- {
     border: 1px solid;
     padding: 10px;
     border-radius: 1.5rem;
 }
 
-.link{
+.link {
     text-decoration: none;
-    color: #1ABC9C;    
+    color: #1ABC9C;
 }
 
 /* prompt */
@@ -132,8 +155,4 @@ footer {
     display: flex;
     align-items: center;
     justify-content: center;
-
-
 }
-
-
