@@ -66,10 +66,7 @@ header {
 }
 
 /* star */
-i {
-    font-size: xx-large;
-    padding: 1rem;
-}
+
 
 .star_ {
     display: flex;
@@ -77,7 +74,9 @@ i {
     align-items: center;
 }
 
-
+i{
+    font-size: x-large;
+}
 
 .hr-star {
     width: 150px;
